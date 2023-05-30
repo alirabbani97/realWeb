@@ -1,9 +1,10 @@
 *{
-    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
 body{
-    background-image: url(nathan-dumlao-I_394sxx0ec-unsplash.jpg);
-    background-color: #111;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: bisque;
+    font-family: 'Poppins', sans-serif;
+    color: fff;
+    font-size: 16px;
+
+}
